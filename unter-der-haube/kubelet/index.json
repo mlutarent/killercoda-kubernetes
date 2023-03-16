@@ -1,0 +1,22 @@
+{
+  "title": "'Kubernetes Unter der Haube' - Kubelet",
+  "description": "'Kubernetes Unter der Haube' Kubelet",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Was läuft bereits?",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}
