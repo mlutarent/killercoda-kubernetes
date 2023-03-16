@@ -7,9 +7,16 @@
     },
     "steps": [
       {
-        "title": "Was läuft bereits?",
-        "text": "step1/text.md",
-        "verify": "step1/verify.sh"
+        "title": "controlplane: Was läuft bereits?",
+        "text": "step_status_control/text.md"
+      },
+      {
+        "title": "SSH in den worker node",
+        "text": "step_ssh/text.md"
+      },
+      {
+        "title": "node01: Was läuft bereits?",
+        "text": "step_status_node/text.md"
       }
     ],
     "finish": {
