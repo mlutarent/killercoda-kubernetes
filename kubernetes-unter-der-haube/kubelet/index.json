@@ -17,6 +17,14 @@
       {
         "title": "node01: Was läuft bereits?",
         "text": "step_status_node/text.md"
+      },
+      {
+        "title": "Einen neuen Pod starten",
+        "text": "step_running_pod/text.md"
+      },
+      {
+        "title": "Kubelet stoppen",
+        "text": "step_stopping_kubelet/text.md"
       }
     ],
     "finish": {

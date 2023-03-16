@@ -32,3 +32,12 @@ systemctl status kubelet
 ```
 
 </details>
+
+
+<details><summary>Wie kommunizieren Kubelet und der Docker Daemon?</summary>
+
+```plain
+ps aux | grep run/containerd/containerd.sock
+```
+
+</details>
