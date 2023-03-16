@@ -1,6 +1,6 @@
 {
-  "title": "'Kubernetes Unter der Haube' - Kubelet",
-  "description": "'Kubernetes Unter der Haube' Kubelet",
+  "title": "'Kubelet",
+  "description": "Kubelet",
   "details": {
     "intro": {
       "text": "intro.md"
