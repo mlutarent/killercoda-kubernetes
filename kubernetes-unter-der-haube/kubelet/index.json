@@ -1,6 +1,6 @@
 {
-  "title": "'Kubelet",
-  "description": "Kubelet",
+  "title": "Kubelet - Der primäre \"node agent\"",
+  "description": "Wir schauen uns Kubelet näher an",
   "details": {
     "intro": {
       "text": "intro.md"
